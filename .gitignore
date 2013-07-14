@@ -96,3 +96,6 @@ logs/
 
 # ConventionTests
 *.received.txt
+
+# Mac shits
+.DS_Store
